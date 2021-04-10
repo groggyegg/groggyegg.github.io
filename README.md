@@ -6,6 +6,8 @@
     - Enter the path https://groggyegg.github.io/
     - Enter a name
 2. Add-ons > Add-on browser > Install from zip file
-    - repository.lime-1.0.3.zip
-3. Optional - For Kodi 18 Leia & Older Release
-    - plugin.video.dramacool-1.8.5.zip
+    - For Kodi 19 & Newer Release
+        - repository.lime-1.0.3.zip
+    - For Kodi 18 & Older Release
+        - plugin.video.dramacool-1.8.5.zip
+        - plugin.video.duboku-1.0.0.zip
