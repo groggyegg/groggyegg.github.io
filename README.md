@@ -9,5 +9,6 @@
     - For Kodi 19 & Newer Release
         - repository.lime-1.0.3.zip
     - For Kodi 18 & Older Release
+        - repository.lime-1.0.3.zip (script.module.resolveurl)
         - plugin.video.dramacool-1.8.X.zip
         - plugin.video.duboku-1.0.0.zip
