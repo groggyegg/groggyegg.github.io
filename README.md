@@ -6,8 +6,4 @@
     - Enter the path https://groggyegg.github.io/
     - Enter a name
 2. Add-ons > Add-on browser > Install from zip file
-    - For Kodi 19 & Newer Release
-        - repository.lime-1.0.3.zip
-    - For Kodi 18 & Older Release
-        - repository.lime-1.0.3.zip (script.module.resolveurl)
-        - plugin.video.duboku-1.0.0.zip
+    - repository.lime-1.0.3.zip
