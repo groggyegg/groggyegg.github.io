@@ -6,4 +6,4 @@
     - Enter the path https://groggyegg.github.io/
     - Enter a name
 2. Add-ons > Add-on browser > Install from zip file
-    - repository.lime-1.0.3.zip
+    - repository.lime-1.0.2.zip
